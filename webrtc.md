@@ -1,7 +1,7 @@
 # Tìm hiểu về WebRTC
 
 ## WebRTC là gì?
-WebRTC (Web Realtime Communication) là WebRTC là một bộ API JavaScript cho phép chúng tôi thiết lập kết nối ngang hàng giữa hai trình duyệt (peer to peer connection) để trao đổi dữ liệu như âm thanh và video, cho phép chúng ta tạo các ứng dụng có tính năng gọi âm thanh và video.
+WebRTC (Web Realtime Communication) là một bộ API JavaScript cho phép chúng tôi thiết lập kết nối ngang hàng giữa hai trình duyệt (peer to peer connection) để trao đổi dữ liệu như âm thanh và video, cho phép chúng ta tạo các ứng dụng có tính năng gọi âm thanh và video.
 
 Điều làm cho WebRTC trở nên đặc biệt là sau khi kết nối được thiết lập, dữ liệu có thể được truyền trực tiếp giữa các trình duyệt trong thời gian thực mà không cần sử dụng server. Bằng cách này, chúng ta có thể giảm độ trễ do dữ liệu không phải chuyển đến máy chủ trước, điều này làm cho webRTC trở nên tuyệt vời để trao đổi âm thanh và video.
 WebRTC được duy trì bởi nhóm **Google Webrtc** dưới sự hỗ trợ của Apple, Google, Microsoft và Mozilla cùng những ông lớn trong lĩnh vực công nghệ khác.
@@ -67,3 +67,9 @@ Khi cả hai peer có thông tin của nhau, họ được kết nối và có t
 
 ## Ứng dụng Video Chat bằng Firebase
 Sẽ trình bày chi tiết trong seminar quý.
+
+# Nguồn
+https://www.agora.io/en/blog/how-does-webrtc-work/
+https://fireship.io/lessons/webrtc-firebase-video-chat/
+https://nhanhoa.com/tin-tuc/webrtc-la-gi.html
+https://fptcloud.com/webrtc/
